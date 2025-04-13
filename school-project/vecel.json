@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "school-frontend/package.json",
+      "use": "@vercel/react"
+    },
+    {
+      "src": "school-backend/server.js",
+      "use": "@vercel/node"
+    }
+  ]
+}
