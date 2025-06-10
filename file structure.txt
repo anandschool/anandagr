@@ -1,0 +1,15 @@
+localbazaar24/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── Header.jsx
+│   │   ├── Login.jsx
+│   │   └── Register.jsx
+│   ├── firebase.js
+│   ├── App.jsx
+│   └── index.js
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json
+└── README.md
